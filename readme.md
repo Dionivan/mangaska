@@ -1,1 +1,1 @@
-Oi pessoal!Tô tentando codificar a base do nosso site... Temos o modelo, mas quis dar uma pequena modificada na coloração, só pra teste. Ajustem o que acharem melhor!
+Oi pessoal!Tô tentando criar uma comunidade para leritores de mangas, se tiver alguma sugestão, pode alterar os arquivos.
